@@ -3,7 +3,7 @@
     <h1>NSP Books Lookup</h1>
     <input v-model="message" placeholder="edit me">
     <ul>
-      <li v-for="(item) in tuneInfo" v-bind:key="item.tune">
+      <li v-for="(item) in tuneInfo" v-bind:key="item.key">
         {{ item.tune }}, {{item.book}}, {{item.edition}}, {{item.page}}
     </li>
     </ul>
@@ -30,7 +30,13 @@ export default {
           for (let tune in bookData[book][edition]) {
             console.log(tune)
             if (tune.toLowerCase().match(this.message.toLowerCase())) {
-              tunes.push({"tune":tune, "book":book, "edition": edition, "page":bookData[book][edition][tune]})
+              tunes.push({
+                "tune":tune,
+                "book":book,
+                "edition": edition,
+                "page":bookData[book][edition][tune],
+                "key": tune + "." + book + "." + edition
+              })
             }
             // eslint-disable-next-line
             // debugger
