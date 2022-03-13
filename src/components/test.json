@@ -1,0 +1,19 @@
+{
+    "bookData": {
+        "Book 1": {
+            "1": {
+                "The Duke of Fifes welcome to Deeside": "12",
+                "Miss Forbes Farewell to Banff": "12"
+            },
+            "2": {
+                "The Duke of Fifes welcome to Deeside": "11",
+                "Miss Forbes Farewell to Banff": "13"
+            }
+        },
+        "Red Book": {
+            "1": {
+                "Brave Sir Robin": "1"
+            }
+        }
+    }
+}
