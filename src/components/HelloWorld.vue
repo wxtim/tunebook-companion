@@ -3,7 +3,7 @@
     <h1>NSP Books Lookup</h1>
     <input v-model="message" placeholder="edit me">
     <ul>
-      <li v-for="(item) in tuneInfo" v-bind:key="item">
+      <li v-for="(item) in tuneInfo" v-bind:key="item.tune">
         {{ item.tune }}, {{item.book}}, {{item.edition}}, {{item.page}}
     </li>
     </ul>
