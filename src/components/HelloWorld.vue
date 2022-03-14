@@ -2,11 +2,14 @@
   <div class="hello">
     <h1>NSP Books Lookup</h1>
     <input v-model="message" placeholder="edit me">
-    <ul>
-      <li v-for="(item) in tuneInfo" v-bind:key="item.key">
-        {{ item.tune }}, {{item.book}}, {{item.edition}}, {{item.page}}
-    </li>
-    </ul>
+    <table>
+      <tr v-for="(item) in tuneInfo" v-bind:key="item.key">
+        <td>{{ item.tune }}</td>
+        <td>{{item.book}}</td>
+        <td>{{item.edition}}</td>
+        <td>{{item.page}}</td>
+      </tr>
+    </table>
   </div>
 </template>
 
