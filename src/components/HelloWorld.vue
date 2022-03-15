@@ -108,7 +108,7 @@ input {
 .footer {
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 40px;
   width: 100%;
   text-align: center;
 }
