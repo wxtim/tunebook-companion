@@ -17,10 +17,11 @@
     </table>
 
     <div class="footer">
+      <br>
       🎼 Written by Tim Pillinger
       <br>
       <a href="https://github.com/wxtim/tunebook-companion">Source Code</a>
-      🔷
+      ◈
       <a href="https://github.com/wxtim/tunebook-companion/issues">Make a suggestion</a>
       <br>
     </div>
@@ -106,15 +107,18 @@ input {
   border-radius:5px;
 }
 .footer {
-  position: fixed;
-  left: 0;
+  /* position: fixed; */
+  /* left: 0;
   bottom: 40px;
-  width: 100%;
+  width: 100%; */
   text-align: center;
 }
 .hello {
   background: #a0a5b8;
   border-radius: 5px;
   padding: 10px;
+}
+a {
+  color: darkblue;
 }
 </style>
