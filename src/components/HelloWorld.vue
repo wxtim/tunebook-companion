@@ -3,15 +3,16 @@
     <h2>NSP Books Lookup</h2>
     <input v-model="message" placeholder="Type a tune name">
     <table>
-      <!-- <th>
-        <td>Tune Name</td>
-        <td>Book</td>
-        <td>Page</td>
-      </th> -->
+      <tr>
+        <th>Tune</th>
+        <th>Book</th>
+        <th>Edition</th>
+        <th>Page</th>
+      </tr>
       <tr v-for="(item) in tuneInfo" v-bind:key="item.key">
-        <td>{{ item.tune }}</td>
+        <td>{{item.tune }}</td>
         <td>{{item.book}}</td>
-        <!-- <td>{{item.edition}}</td> -->
+        <td>{{item.edition}}</td>
         <td>{{item.page}}</td>
       </tr>
     </table>
@@ -87,20 +88,26 @@ a {
 table {
   padding: 15px;
   border: 1px solid #000;
-  border-collapse: collapse;
+  /* border-collapse: collapse; */
   margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
   text-align: right;
   border-radius: 5px;
+  border-spacing: 0px;
+  border-collapse: collapse;
 }
-td {
+td, th {
   padding: 5px;
   border: 1px solid #000;
   text-align: right;
   border-style: solid;
-  border-color: #000;
-  border-radius: 5px;
+  border-color: #222;
+  border-collapse: collapse;
+}
+tr:nth-child(even) {
+  background: #ccc;
+  padding: 5px;
 }
 input {
   padding: 5px;
