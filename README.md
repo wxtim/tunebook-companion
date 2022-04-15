@@ -1,10 +1,59 @@
 # Northumbrian Piping Tunebook Directory
 
-TODO - add link to github.io page here.
+**[Go to the tunebook lookup page](https://wxtim.github.io/tunebook-companion/)**
 
 An app designed to take a tune name and return
 location of tune in the specific editions of a
 tunebook owned by a given user.
+
+
+# Currently Supported Tunebooks
+
+#### Bewick
+  - Unknown Edition, data from J Say
+#### Billy Pigg's Compositions
+  - Unknown Edition, data from J Say
+#### Billy Pigg's Repertoire
+  - Unknown Edition, data from J Say
+#### Border Minstrel
+  - 1
+#### Charlton MTB
+  - Unknown Edition, data from J Say
+#### Continuing the Tradition
+  - Unknown Edition, data from J Say
+#### Duet
+  - 1
+#### Folio 2005
+  - Unknown Edition, data from J Say
+#### Folio 2007
+  - Unknown Edition, data from J Say
+#### Folio 2009
+  - Unknown Edition, data from J Say
+#### Folio 2011
+  - Unknown Edition, data from J Say
+#### Green Book
+  - Unknown Edition, data from J Say
+#### James Hill
+  - Unknown Edition, data from J Say
+#### Minstrelsy
+  - Unknown Edition, data from J Say
+#### NPS Book 1
+  - Unknown Edition, data from J Say
+  - 3
+#### NPS Book 2
+  - Unknown Edition, data from J Say
+  - 3
+#### NPS Book 3
+  - 2
+#### NPS Book 4
+  - 1
+#### Peacock
+  - Unknown Edition, data from J Say
+#### Yellow Book
+  - 3
+#### First 30
+  - 2008
+
 
 
 # Roadmap
