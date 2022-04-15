@@ -491,7 +491,7 @@
             }
         },
         "Duet": {
-            "?": {
+            "1": {
                 "Ian Dickson": "2",
                 "Parnell's March": "3",
                 "Glen Aln Hornpipe": "4",
@@ -1537,11 +1537,11 @@
             }
         },
         "NPS Book 3": {
-            "?": {
+            "2": {
                 "Harry's Rant": "1",
                 "Rochdale Rushcart": "1",
                 "Spirit of the Border": "1",
-                "Girl for the Fen": "2",
+                "Girl from the Fen, the": "2",
                 "Shadows": "2",
                 "A1 Jig": "3",
                 "Bill Cassie's Jig": "3",
@@ -1551,11 +1551,13 @@
                 "Ruth's Reel": "4",
                 "Five o'clock in the Morning": "5",
                 "Quarrelsome Piper (The)": "5",
+                "Piper (See the Quarrelsome Piper)": "5",
                 "Thropton Races": "5",
                 "Sweet Maid of Mull": "6",
                 "Yvonne Karen Dunn": "6",
                 "Grand Chain (The)": "7",
-                "Miss Claire Davison": "7",
+                "Le Grand Chien (see Grand Chain)": "7",
+                "Miss Claire Davidson": "7",
                 "Oh I hae seen the Roses Blaw": "8",
                 "One after That (The)": "9",
                 "Brafferton Village": "10",
@@ -1572,7 +1574,7 @@
                 "Natalie's Fancy": "16",
                 "Treviot Brig": "16",
                 "Wylam Bridge": "16",
-                "James Mason of Westerhope": "17",
+                "James Mann of Westerhope": "17",
                 "Tea Clipper": "17",
                 "Against the Grain": "18",
                 "Billy Mill Hornpipe": "18",
@@ -1632,7 +1634,7 @@
             }
         },
         "NPS Book 4": {
-            "?": {
+            "1": {
                 "Castle Hornpipe,  The": "1",
                 "Cliffs of Old Tynemouth": "1",
                 "Kielder Bumie": "1",
@@ -1822,7 +1824,7 @@
             }
         },
         "Yellow Book": {
-            "?": {
+            "3": {
                 "Duchess of Northumberland": "1",
                 "Hey! For Newbiggin": "1",
                 "Mrs Fenwick": "1",
@@ -1845,7 +1847,7 @@
                 "O'er the Hills and Far Away": "9",
                 "Ulgham Jubilee": "9",
                 "Clankin' Rail The": "10",
-                "Colbum Lane": "10",
+                "Colburn Lane": "10",
                 "Sandgate Corner": "10",
                 "Anniversary Jig,  The": "11",
                 "Happy Hours": "11",
@@ -1870,7 +1872,7 @@
                 "Silver Street Lasses": "20",
                 "Bigg Market Lasses": "21",
                 "Morpeth Lasses": "21",
-                "Randy Wives of Greelaw,  The": "21",
+                "Randy Wives of Greenlaw,  The": "21",
                 "Lads Of Whickham,  The": "22",
                 "Merry Lads of Gateshead": "22",
                 "Rantin' Lads of Whickham,  The": "22",
