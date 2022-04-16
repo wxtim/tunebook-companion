@@ -19,9 +19,9 @@
 
     <div class="footer">
       <br>
-      🎼 Written by Tim Pillinger
-      <br>
       <a href="https://github.com/wxtim/tunebook-companion#currently-supported-tunebooks">List of Books in the the Database</a>
+      <br>
+      🎼 Written by Tim Pillinger
       <br>
       <a href="https://github.com/wxtim/tunebook-companion">Source Code</a>
       ◈
