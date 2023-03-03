@@ -10,7 +10,7 @@ tunebook owned by a given user.
 # Currently Supported Tunebooks
 
 #### Bewick
-  - Unknown Edition, data from J Say
+  - Probably 3rd (2010) edition - data from J Say
 #### Billy Pigg's Compositions
   - Unknown Edition, data from J Say
 #### Billy Pigg's Repertoire
@@ -18,7 +18,7 @@ tunebook owned by a given user.
 #### Border Minstrel
   - 1
 #### Charlton MTB
-  - Unknown Edition, data from J Say
+  - Matches my ancient 1956 edition! Data from J Say
 #### Continuing the Tradition
   - Unknown Edition, data from J Say
 #### Duet
@@ -55,21 +55,26 @@ tunebook owned by a given user.
   - 2008
 #### Remember Me
   - 1995
-
+#### Over To You
+  - 2015: Many thanks to Philip Howard for data
+    inputting.
+#### Clough Family Tunebook
+  - 2012: Many thanks to Philip Howard for data
+    inputting.
 
 
 # Roadmap
 
-1. Build a proof of concept with simple test data.
-2. Deploy PoC on GH pages using GH actions
-   to build the project. - this should make the
-   deployment repeatable.
-3. Add backend data to produce a basic app.
-4. Add a means to save user preferences about
-   which tune books they have.
-5. Add an I'm feeling lucky.
-6. Add links to foltunefinder and/or the session
-   if tune exists but not in an edition you own.
+- [x] Build a proof of concept with simple test data
+- [x] Deploy PoC on GH pages using GH actions
+      to build the project. - this should make the
+      deployment repeatable.
+- [x] Add backend data to produce a basic app.
+- [ ] Add a means to save user preferences about
+      which tune books they have.
+- [ ] Add an I'm feeling lucky.
+- [ ] Add links to folktunefinder and/or the session
+      if tune exists but not in an edition you own.
 
 
 ## Desired appearance:
