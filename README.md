@@ -61,6 +61,18 @@ tunebook owned by a given user.
 #### Clough Family Tunebook
   - 2012: Many thanks to Philip Howard for data
     inputting.
+### The Piper's Companion - Volume I
+  - 1994: Many thanks to Philip Howard for data
+    inputting.
+### The Piper's Companion - Volume II
+  - 2002: Many thanks to Philip Howard for data
+    inputting.
+### Classic for Folk - Volume V of The Piper's Companion
+  - 1995: Many thanks to Philip Howard for data
+    inputting.
+### The Wild Hills o' Wannies - Volume VII of The Piper's Companion
+  - 1995: Many thanks to Philip Howard for data
+    inputting.
 
 
 # Roadmap
